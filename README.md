@@ -101,7 +101,7 @@ if __name__ == "__main__":
 
 
 # Link to run if this copy paste is not working
-https://replit.com/@vigneshm2021csb/A-alogorithm
+https://replit.com/@vigneshm2021csb/A-alogorithm#main.py
 
 # INPUT
 Enter the number of points: 4
